@@ -1,5 +1,5 @@
 _repo: Kuoleman-riemuvoitto-Romaani_66107
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Trionfo della morte. Finnish
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -24,6 +27,8 @@ creator:
     - https://it.wikipedia.org/wiki/Gabriele_D%27Annunzio
     - https://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66107#Kuoleman-riemuvoitto-Romaani
 gutenberg_issued: '2021-08-22'
 identifiers:
   gutenberg: '66107'
